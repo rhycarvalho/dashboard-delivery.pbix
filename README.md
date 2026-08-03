@@ -1,6 +1,6 @@
-# 🛵 Dashboard Operacional de Delivery — Power BI
+# 🛵 Dashboard Operacional de Delivery  Power BI
 
-Projeto de análise de dados construído no Power BI Desktop, simulando a rotina de um analista de dados/BI numa operação de delivery: desde a limpeza dos dados brutos até a construção de um dashboard interativo com KPIs de negócio.
+Projeto de análise de dados construído no Power BI Desktop, simulando a rotina numa operação de delivery
 
 ## 📌 Contexto e problema de negócio
 
@@ -64,7 +64,7 @@ O painel reúne:
 - **Ranking de entregadores**: total de pedidos, tempo médio de entrega e avaliação média por entregador
 - **Filtros interativos** (segmentações) por status do pedido e por cidade
 
-> Adicione aqui um print do dashboard final: `![Dashboard](caminho/da/imagem.png)`
+> o print está em files para conhecer o dashboard
 
 ## 💡 Principais insights
 
@@ -82,8 +82,6 @@ O painel reúne:
 ```
 ├── dashboard-delivery.pbix
 ├── delivery_dataset_bruto.xlsx
+e Print dashboard.png
 └── README.md
 ```
-
----
-Projeto desenvolvido por Rhyan Carvalho como parte de portfólio em Analytics/LegalTech.
